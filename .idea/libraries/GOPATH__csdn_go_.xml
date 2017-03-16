@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;csdn_go&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../test1" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../testweb" />
+      <root url="file://$PROJECT_DIR$/../springmvc" />
+      <root url="file://$PROJECT_DIR$/../mavenspringmvc" />
+      <root url="file://$PROJECT_DIR$/../web1" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../test2" />
+      <root url="file://$PROJECT_DIR$/../goweb" />
+      <root url="file://$PROJECT_DIR$/../springmvc1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../test1" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../testweb" />
+      <root url="file://$PROJECT_DIR$/../springmvc" />
+      <root url="file://$PROJECT_DIR$/../mavenspringmvc" />
+      <root url="file://$PROJECT_DIR$/../web1" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../test2" />
+      <root url="file://$PROJECT_DIR$/../goweb" />
+      <root url="file://$PROJECT_DIR$/../springmvc1" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$/helloWorld" />
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
