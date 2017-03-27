@@ -29,6 +29,7 @@
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$/helloWorld" />
+      <root url="file://$PROJECT_DIR$/lesson_1" />
       <root url="file://$PROJECT_DIR$" />
     </excluded>
   </library>
